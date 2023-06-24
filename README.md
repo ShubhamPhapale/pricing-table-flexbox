@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-
+<img width="1440" alt="Screenshot 2023-06-24 at 2 13 45 PM" src="https://github.com/ShubhamPhapale/pricing-table-flexbox/assets/94707673/b8d78c42-2110-4f56-9d0e-ebb7f258d98a">
 
 ### Built with
 
